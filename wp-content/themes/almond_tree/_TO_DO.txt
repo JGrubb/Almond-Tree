@@ -1,0 +1,4 @@
+Add blog functionality
+Make sure single.php is good
+Make sure index.php is good
+Figure out Sidebars

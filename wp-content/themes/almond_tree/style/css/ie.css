@@ -1,0 +1,6 @@
+
+/* IE (all versions) */
+/* ----------------------------------------- */
+
+.green-box li {background-position:9px 5px;}
+* html .footer-nav li {background-image: expression( (this===this.parentNode.childNodes[0]) ? "none" : "auto");}
