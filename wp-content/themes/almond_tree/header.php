@@ -17,6 +17,7 @@
 		<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 		<?php wp_head(); ?>
 		<script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+		<meta name="google-site-verification" content="FFAVi4VnPUONKsum-Is8T1JFQfnsSVGPEK_dIkysqHY" />
 	</head>
 	
 	<body <?php body_class(); ?>>

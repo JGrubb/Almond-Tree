@@ -21,7 +21,8 @@
 			</div>
 			
 				<p>Copyright &copy; 2009 Almond Tree Marketing LLC. All rights reserved. All trademarks and names mentioned herein are the property of their respective owners.<br /> 
-							*Limited quantities available. Almond Tree Marketing LLC maintains the right to modify this promotion at any time. Additional restrictions may apply.</p>
+							*Limited quantities available. Almond Tree Marketing LLC maintains the right to modify this promotion at any time. Additional restrictions may apply.<br />
+							Best viewed in IE7 or better.</p>
 		<?php wp_footer(); ?>
 		</div>
 	</div>

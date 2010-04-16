@@ -1,53 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:8888/atm/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/2.9.1" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:8888/atm/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/2.9.2" -->
 <!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.2" -->
-<!-- generated-on="February 20, 2010 3:01 pm" -->
+<!-- generated-on="April 16, 2010 5:45 pm" -->
 <!-- Debug: Total comment count: 1 -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>http://localhost:8888/atm/</loc>
-		<lastmod>2010-01-21T17:46:09+00:00</lastmod>
+		<lastmod>2010-04-16T17:43:45+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 <!-- Debug: Start Postings -->
 	<url>
-		<loc>http://localhost:8888/atm/solutions/child-3/</loc>
-		<lastmod>2010-02-06T04:50:31+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/solutions/child-2/</loc>
-		<lastmod>2010-02-06T04:50:14+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/solutions/child-1/</loc>
-		<lastmod>2010-02-06T04:49:57+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/blog-2/</loc>
-		<lastmod>2010-02-04T18:32:50+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/portfolio/</loc>
-		<lastmod>2010-01-21T19:27:47+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/privacy/</loc>
-		<lastmod>2010-01-20T23:22:03+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/contact/</loc>
-		<lastmod>2010-01-20T17:28:02+00:00</lastmod>
+		<loc>http://localhost:8888/atm/home/</loc>
+		<lastmod>2010-04-16T17:44:30+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
@@ -64,30 +28,6 @@
 		<lastmod>2010-01-17T19:58:56+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/careers/</loc>
-		<lastmod>2010-01-17T19:52:55+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/locations/</loc>
-		<lastmod>2010-01-17T19:52:25+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/solutions/</loc>
-		<lastmod>2010-01-17T19:49:01+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
-	</url>
-	<url>
-		<loc>http://localhost:8888/atm/team/</loc>
-		<lastmod>2010-01-17T19:48:04+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.6</priority>
 	</url>
 <!-- Debug: End Postings -->
 <!-- Debug: Start Custom Pages -->

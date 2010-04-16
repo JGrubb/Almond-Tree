@@ -1,0 +1,1 @@
+This is the wordpress powered website of my employer, Almond Tree Marketing.  I'm using Git on it because it's smart to do that, or so I read.
